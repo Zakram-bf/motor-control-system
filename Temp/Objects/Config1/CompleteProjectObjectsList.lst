@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.12.2.93"?>
+<Objects>
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="133392532169293318" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="133392529186088471"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="133392529186142322"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="133392534579989853" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="133392529193055675" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="133392529193018300"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="133392529193040615"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="133392529193053518"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="133392529194533656" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="133392529194513216"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="133392529194524738"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="133392529194533656"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="133392529196103587" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="133392529196078154"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="133392529196091172"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="133392529196103587"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="133392529197625314" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="133392529197604518"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="133392529197609456"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="133392529197625314"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\Library\ANSIC.lby"
+    LogicalPath="Libraries.Library"
+    Type="Library"
+    LastWriteTime="133407942075324998" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\Library\Types.typ"
+    LogicalPath="Libraries.Library.Types.typ"
+    Type="File"
+    LastWriteTime="133392534579948030"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\Library\Constants.var"
+    LogicalPath="Libraries.Library.Constants.var"
+    Type="File"
+    LastWriteTime="133392534579959642"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\Library\Library.fun"
+    LogicalPath="Libraries.Library.Library.fun"
+    Type="File"
+    LastWriteTime="133407947138855936"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\Library\FB_Motor.c"
+    LogicalPath="Libraries.Library.FB_Motor.c"
+    Type="File"
+    LastWriteTime="133407967039588416"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\Library\FB_Integrator.c"
+    LogicalPath="Libraries.Library.FB_Integrator.c"
+    Type="File"
+    LastWriteTime="133395847051317943"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Libraries\Library\FB_Controller.c"
+    LogicalPath="Libraries.Library.FB_Controller.c"
+    Type="File"
+    LastWriteTime="133407947100312008"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Program\ANSIC.prg"
+    LogicalPath="Program"
+    Type="Program"
+    LastWriteTime="133392532169285481" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Program\Main.c"
+    LogicalPath="Program.Main.c"
+    Type="File"
+    LastWriteTime="133416091026179140"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Program\Types.typ"
+    LogicalPath="Program.Types.typ"
+    Type="File"
+    LastWriteTime="133392532169278186"
+    Private="true" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Logical\Program\Variables.var"
+    LogicalPath="Program.Variables.var"
+    Type="File"
+    LastWriteTime="133407955095963393"
+    Private="true" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="133392529229785207" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="133416088159870644"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="133416088914544702"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\Cpu.pkg"
+    LogicalPath="Config1.X20cCP0410"
+    Type="Cpu"
+    LastWriteTime="133416089064912935" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\Cpu.sw"
+    LogicalPath="Config1.X20cCP0410.Cpu.sw"
+    Type="File"
+    LastWriteTime="133407974393871805"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\Cpu.per"
+    LogicalPath="Config1.X20cCP0410.Cpu.per"
+    Type="File"
+    LastWriteTime="133392529201507202"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\IoMap.iom"
+    LogicalPath="Config1.X20cCP0410.IoMap.iom"
+    Type="File"
+    LastWriteTime="133392529201526594"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\PvMap.vvm"
+    LogicalPath="Config1.X20cCP0410.PvMap.vvm"
+    Type="File"
+    LastWriteTime="133392529201606446"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\Connectivity\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.Connectivity"
+    Type="Package"
+    LastWriteTime="133392529202109686" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="133392529202094451" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\Connectivity\OpcUaFx\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.Connectivity.OpcUaFx"
+    Type="Package"
+    LastWriteTime="133392529202109686" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\TextSystem\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.TextSystem"
+    Type="Package"
+    LastWriteTime="133392529202135639" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\UnitSystem\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.UnitSystem"
+    Type="Package"
+    LastWriteTime="133392529202224407" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\AccessAndSecurity\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="133392529202575964" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="133392529202371940" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="Config1.X20cCP0410.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="133392529202361941"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="Config1.X20cCP0410.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="133392529202371940"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="133392529202513800" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="133392529202444022" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="133392529202425933" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="133392529202439100" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="133392529202478115" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="133392529202473118" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="133392529202495456" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="133392529202513800" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="133392529202537374" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\AccessAndSecurity\Firewall\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.AccessAndSecurity.Firewall"
+    Type="Package"
+    LastWriteTime="133392529202575964" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\AccessAndSecurity\Firewall\Rules.firewallRules"
+    LogicalPath="Config1.X20cCP0410.AccessAndSecurity.Firewall.Rules.firewallRules"
+    Type="File"
+    LastWriteTime="133392529202570248"
+    Private="false" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\mappControl\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.mappControl"
+    Type="Package"
+    LastWriteTime="133392529202604576" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\mappMotion\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.mappMotion"
+    Type="Package"
+    LastWriteTime="133392529202695734" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\mappServices\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.mappServices"
+    Type="Package"
+    LastWriteTime="133392529202780337" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\mappSafety\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.mappSafety"
+    Type="Package"
+    LastWriteTime="133392529202893661" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\mappSafety\SafeApplication\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.mappSafety.SafeApplication"
+    Type="Package"
+    LastWriteTime="133392529202876964" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\mappSafety\SafeCommissioning\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.mappSafety.SafeCommissioning"
+    Type="Package"
+    LastWriteTime="133392529202893661" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\mappView\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.mappView"
+    Type="Package"
+    LastWriteTime="133392529202989574" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\mappVision\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.mappVision"
+    Type="Package"
+    LastWriteTime="133392529203072958" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\X20cCP0410\mappCockpit\Package.pkg"
+    LogicalPath="Config1.X20cCP0410.mappCockpit"
+    Type="Package"
+    LastWriteTime="133392529203157755" />
+  <Object
+    Path="C:\projects\Lab_1_Morozov_TAU\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="133416088914774811"
+    Private="false" />
+</Objects>
